@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD-105-Final-Project</string>
+    <string name="txtTitle">Your Todo List</string>
+    <string name="txtAddItem">Add an objective</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnRemove">Remove</string>
+</resources>
